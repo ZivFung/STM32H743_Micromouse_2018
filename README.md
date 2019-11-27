@@ -9,9 +9,9 @@
   This is another successful rush of tracer, but the video is took at slow-motion mode.  
 ![image](https://github.com/ZivFung/STM32H743_Micromouse_2018/blob/master/Rush_slowMotion.gif)  
 # Directory Overview
-"USER": this directory contains code for all the real function of tracer.
-"HARDWARE": this directory contains code for few divers of peripherals for STM32H743. This is copied from others'.
-"CORE": this directory contains core code for controller.
-"UCOSIII": this directory contains code of RTOS UCOS-III.
+"USER": this directory contains code for all the real function of tracer.  
+"HARDWARE": this directory contains code for few divers of peripherals for STM32H743. This is copied from others'.  
+"CORE": this directory contains core code for controller.  
+"UCOSIII": this directory contains code of RTOS UCOS-III.  
 
 
