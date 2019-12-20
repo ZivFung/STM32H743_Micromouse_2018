@@ -8,11 +8,11 @@
 ![image](https://github.com/ZivFung/STM32H743_Micromouse_2018/blob/master/Tracer.JPG)   
 
 # Video Records of Tracer's Successful Rush
-  The first gif is normal video speed of one successful rush. Tracer already searched the maze and found the optimized way to the destination.  
+  The first gif is a normal speed video of one successful rush. Tracer already searched the maze and found the optimized way to the destination.  
 ![image](https://github.com/ZivFung/STM32H743_Micromouse_2018/blob/master/Rush.gif)    
 	
   This is another successful rush of tracer, but the video is took at slow-motion mode.  
-![image](https://github.com/ZivFung/STM32H743_Micromouse_2018/blob/master/Rush_slowMotion.gif) 
+![image](https://github.com/ZivFung/STM32H743_Micromouse_2018/blob/master/Rush_slowMotion.gif)  
 
 # Directory Overview
 "USER": this directory contains code for all the real function of tracer.  
@@ -27,4 +27,4 @@ Infrared Transistor: TSL262
 IMU: ICM20602  
 Motor: DC Coreless Mmotor  
 Encoder: Optical Encoder  
-Communication: Bluetooth Module HC-06  
+Debug Communication: Bluetooth Module HC-06  
