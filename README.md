@@ -20,11 +20,11 @@
 "CORE": this directory contains core code for controller.  
 "UCOSIII": this directory contains code of RTOS UCOS-III.  
 
-# Harware
+# Hardware
 MCU: STMicroelectronics STM32H743  
 Infrared Emitter: SFH4550  
 Infrared Transistor: TSL262   
 IMU: ICM20602  
-Motor: DC Coreless Mmotor  
+Motor: DC Coreless Motor  
 Encoder: Optical Encoder  
 Debug Communication: Bluetooth Module HC-06  
