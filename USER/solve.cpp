@@ -1,10 +1,3 @@
-/*
- * solve.cpp
- *
- *  Created on: Sep 6, 2014
- *      Author: loywong
- */
-
 #include "solve.h"
 #include "includes.h"
 //#include <stdio.h>

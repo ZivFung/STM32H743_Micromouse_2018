@@ -1,10 +1,3 @@
-/*
- * solve.h
- *
- *  Created on: Sep 6, 2014
- *      Author: loywong
- */
-
 #ifndef SOLVE_H_
 #define SOLVE_H_
 

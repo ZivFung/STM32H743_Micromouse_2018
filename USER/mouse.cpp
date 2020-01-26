@@ -1,11 +1,3 @@
-//
-//  mouse.cpp
-//  mmmaze
-//
-//  Created by Loy Kyle Wong on 11/10/2013.
-//  Copyright (c) 2013 Loy Kyle Wong. All rights reserved.
-//
-
 #include "mouse.h"
 #include "mmaze.h"
 #include <limits.h>

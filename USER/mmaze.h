@@ -1,11 +1,3 @@
-//
-//  mmmaze.h
-//  mmmaze
-//
-//  Created by Loy Kyle Wong on 11/09/2013.
-//  Copyright (c) 2013 Loy Kyle Wong. All rights reserved.
-//
-
 #ifndef MMAZE_H_
 #define MMAZE_H_
 

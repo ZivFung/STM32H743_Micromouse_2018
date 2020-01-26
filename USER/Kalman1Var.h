@@ -1,10 +1,3 @@
-/*
- * Kalman1Var.h
- *
- *  Created on: Aug 4, 2016
- *      Author: loywong
- */
-
 #ifndef KALMAN_KALMAN1VAR_H_
 #define KALMAN_KALMAN1VAR_H_
 
